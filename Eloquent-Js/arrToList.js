@@ -25,3 +25,4 @@ let list = {
 }
 
 console.log(listToArray(arrayToList([10, 20, 30])))
+
